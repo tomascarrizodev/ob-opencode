@@ -1,0 +1,12 @@
+HTML/CSS
+	Bootstrap
+	Sass
+JavaScript
+	VueJS
+	nodejs
+	animejs
+	axios
+	typeitjs
+	eslint?
+	velocityjs?
+	

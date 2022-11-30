@@ -1,0 +1,11 @@
+posible API:
+
+https://commercejs.com
+
+Posible diseño:
+
+https://dribbble.com/shots/15182217/attachments/6924225?mode=media
+
+Posible deploy:
+
+https://www.netlify.com
